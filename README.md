@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 <div align='center'>
-  <img src = 'https://github.com/amina-alibasic/amina-alibasic/blob/1b67f3210be9c78951ec6a36c3fb54ac255e94d5/images/computer-typing.gif' alt = 'Computer Typing' align='center'/>
+  <img src = 'https://github.com/amina-alibasic/amina-alibasic/blob/8bbcfa833bf30ef8f52f1903684ae17208d46e0d/images/computer-typing.gif' alt = 'Computer Typing' align='center'/>
 </div>
 
 <h3 align="center"> I'm 24 years old software developer from Bosnia and Herzegovina. 
