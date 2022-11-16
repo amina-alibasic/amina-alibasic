@@ -4,8 +4,8 @@
   <img src = 'https://github.com/amina-alibasic/amina-alibasic/blob/8bbcfa833bf30ef8f52f1903684ae17208d46e0d/images/computer-typing.gif' alt = 'Computer Typing' align='center'/>
 </div>
 
-<h3 align="center"> I'm 24 years old software developer from Bosnia and Herzegovina. 
-  <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/ba.svg' width='15'/> 
+<h3 align="center"> I'm a 24-year-old software developer coming from Bosnia and Herzegovina  
+  <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/ba.svg' width='20'/> 
 </h3>
 
 <h3 align='center'>
