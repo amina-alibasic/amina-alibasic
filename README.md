@@ -10,7 +10,7 @@
 
 <h3 align='center'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AminaAlibasic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/amina-alibasic)](www.linkedin.com/in/amina-alibasic) [![Gmail Badge](https://img.shields.io/badge/-alibasicamina@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alibasicamina@outlook.com)](mailto:alibasicamina@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-AminaAlibasic-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/amina-alibasic) [![Gmail Badge](https://img.shields.io/badge/-alibasicamina@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alibasicamina@outlook.com)](mailto:alibasicamina@outlook.com)
 
 </h3>
 
