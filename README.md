@@ -15,6 +15,7 @@
  <h3 align="center"> 💻 Programming languages and frameworks I work with:</h3>
     <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/java.svg' width='30'/> Java </h4>
     <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/sql.svg' width='30'/> MySQL </h4>
+    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/MS_SQL.svg' width='30'/> MsSQL </h4>
     <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/vue.svg' width='30'/> Vue.js </h4>
     <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/angular.svg' width='30'/> Angular </h4>
     <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/js.svg' width='30'/> JavaScript </h4>
