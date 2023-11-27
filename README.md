@@ -4,7 +4,7 @@
   <img src = 'https://github.com/amina-alibasic/amina-alibasic/blob/8bbcfa833bf30ef8f52f1903684ae17208d46e0d/images/computer-typing.gif' alt = 'Computer Typing' align='center'/>
 </div>
 
-<h3 align="center"> I'm a 24-year-old electrical engineer and software developer. </h3>
+<h3 align="center"> My name is Amina, and I'm a passionate and innovative full-stack developer with a knack for turning ideas into high-quality, scalable software. </h3>
 
 <h3 align='center'>
 
@@ -12,13 +12,26 @@
 
 </h3>
 
- <h3 align="center"> 💻 Programming languages and frameworks I work with:</h3>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/java.svg' width='30'/> Java </h4>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/sql.svg' width='30'/> MySQL </h4>
-     <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/PostgreSQL.svg' width='30'/> PostgreSQL </h4>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/MS_SQL.svg' width='30'/> MsSQL </h4>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/vue.svg' width='30'/> Vue.js </h4>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/angular.svg' width='30'/> Angular </h4>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/js.svg' width='30'/> JavaScript </h4>
-    <h4 align="center"> <img src = 'https://raw.githubusercontent.com/amina-alibasic/amina-alibasic/main/images/typescript.svg' width='30'/> TypeScript </h4>
+ <h3 align="center"> 💻 Here's a glimpse into my tech repertoire:</h3>
+<div align='center'/>
+  
+### Languages 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### Frontend Magic
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+### Backend Sorcery
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+### Database Wizardry
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</div>
