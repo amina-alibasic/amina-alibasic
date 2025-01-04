@@ -8,7 +8,7 @@
 
 <h3 align='center'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AminaAlibasic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amina-alibasic)](https://www.linkedin.com/in/amina-alibasic) [![Gmail Badge](https://img.shields.io/badge/-alibasicamina@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibasicamina@outlook.com)](mailto:alibasicamina@outlook.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/amina-alibasic) [![Gmail Badge](https://img.shields.io/badge/-alibasicamina@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:alibasicamina@outlook.com)](mailto:alibasicamina@outlook.com)
 
 </h3>
 
@@ -23,6 +23,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Backend Sorcery
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
